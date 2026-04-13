@@ -1,0 +1,5 @@
+{
+  "name": "Agentic Honey-Pot for Scam Detection",
+  "description": "An AI-powered agent that detects scam messages, engages scammers in multi-turn conversations, and extracts actionable intelligence like bank details, UPI IDs, and phishing links.",
+  "requestFramePermissions": []
+}
